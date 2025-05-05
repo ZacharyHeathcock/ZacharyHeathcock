@@ -1,4 +1,4 @@
-- Hey, I’m Zachary Heathcock a senior Computer Engineer at the University of Memphis
+- Hey, I’m Zachary Heathcock a Computer Engineering Graduate from the University of Memphis
 - You can reach me at my email zachary_heathcock@gmail.com
 <!---
 ZacharyHeathcock/ZacharyHeathcock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
